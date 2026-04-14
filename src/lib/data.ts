@@ -135,19 +135,19 @@ export const stats: Stat[] = [
 ];
 
 export const profile = {
-  name: "Александр Рыбалко",
+  name: "Нерсес Казанджиан",
   title: "Фотограф & Видеооператор",
   subtitle: "PULSE STREAM",
-  bio: "Меня зовут Александр, я фотограф, который с радостью делится своими работами и опытом в мире визуального искусства. Также я веду прямые трансляции на заказ. На этом канале вы найдете уникальные фотографии, захватывающие видео и прямые трансляции.",
+  bio: "Меня зовут Нерсес Казанджиан, я фотограф, который с радостью делится своими работами и опытом в мире визуального искусства. Также я веду прямые трансляции на заказ. На этом канале вы найдете уникальные фотографии, захватывающие видео и прямые трансляции.",
   avatar: "/images/avatar.png",
 };
 
 export const contacts = [
-  { name: "Почта", url: "mailto:rybalko7676@gmail.com", icon: "📧" },
-  { name: "ВКонтакте", url: "https://vk.com/rybalko07", icon: "💬" },
+  { name: "Почта", url: "mailto:Нерсес Казанджиан@gmail.com", icon: "📧" },
+  { name: "ВКонтакте", url: "https://vk.com/Нерсес Казанджиан", icon: "💬" },
 ];
 
 export const socialButtons = [
-  { name: "Telegram канал", url: "https://t.me/pulse_stream", icon: "📢" },
-  { name: "ВКонтакте", url: "https://vk.com/pulse_stream", icon: "💬" },
+  { name: "Telegram канал", url: "https://t.me/Нерсес Казанджиан", icon: "📢" },
+  { name: "ВКонтакте", url: "https://vk.com/Нерсес Казанджиан", icon: "💬" },
 ];
